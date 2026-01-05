@@ -20,6 +20,7 @@ JCMT SCUBA2 850 um map: FWHM = 14", mJy/beam
 <img width="389" height="517" alt="m31_jcmt850" src="https://github.com/user-attachments/assets/79e737c1-caae-4b52-9000-37983fd6fc28" />
 
 </div>
+
 ### SED-fitting products:
 Dust surface density map: FWHM = 18", M_sun/pc^2
 
@@ -30,6 +31,5 @@ beta map: FWHM = 37", K
 <img width="510" height="517" alt="m31_sed" src="https://github.com/user-attachments/assets/f4af546f-63fb-4d48-9e1f-ce17f0c8bf8b" />
   
 </div>
-
 
 If you encounter difficulties downloading any of these files, please send email to sihanjiao@nao.cas.cn
