@@ -17,6 +17,7 @@ JCMT SCUBA2 450 um map: FWHM = 8", mJy/beam
 
 JCMT SCUBA2 850 um map: FWHM = 14", mJy/beam
 
+<img width="389" height="517" alt="m31_jcmt850" src="https://github.com/user-attachments/assets/79e737c1-caae-4b52-9000-37983fd6fc28" />
 
 
 
