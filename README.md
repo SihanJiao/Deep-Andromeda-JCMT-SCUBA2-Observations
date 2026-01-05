@@ -24,9 +24,9 @@ JCMT SCUBA2 850 um map: FWHM = 14", mJy/beam
 ### SED-fitting products:
 Dust surface density map: FWHM = 18", M_sun/pc^2
 
-Dust temperature map: FWHM = 18", -
+Dust temperature map: FWHM = 18", K
 
-beta map: FWHM = 37", K
+beta map: FWHM = 37", -
 <div align="center">
 <img width="510" height="517" alt="m31_sed" src="https://github.com/user-attachments/assets/f4af546f-63fb-4d48-9e1f-ce17f0c8bf8b" />
   
