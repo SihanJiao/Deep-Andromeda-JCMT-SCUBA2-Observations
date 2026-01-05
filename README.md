@@ -1,1 +1,1 @@
-# Deep-Andromeda-JCMT-SCUBA2-Observations
+# Deep_Andromeda_JCMT-SCUBA2_Observations
